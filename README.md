@@ -1,1 +1,11 @@
 # 8-2-Journal-Portfolio-Submission--Assignment-
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass project was a created project to provide Customers online classes, practice tests, and on-the-road driving training. The client is DriverPass. The system that they wanted me to design is a system that could run off of the web in the cloud to access data to download driverpass reports, a system so they could reset passwords and block accounts, a system that tracked reservation, cancellation, and modification, a system that required credit card info or the Customer couldn't take training, a system that allowed the Customer to choose one out three packages, and a system that allowed driver notes to see who did good and who needs improvement.
+What did you do particularly well?
+What I did particularly well is the business requirements document, because I created this document to layout what needs to be done to run the DriverPass.
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would pick the Gantt Chart to revise. I would improve it be extending it to 9 weeks like the schedule says.
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I interpreted the user's needs and implemented them into my system design by reading the DriverPass Interview, writing down the user's needs in my document, and creating charts and diagrams to layout what the user needs. It's important to consider the user's needs when designing so that you can give what the Customer needs and wants.
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I would approach designing software by knowing what is required, by thinking on the components, by creating prototypes, by figuring out the non-functional requirements, and by seeing my design. The techniques or strategies that I would use in the future to analyze and design a system are:figuring out the problem statements, asking what the client needs are, and asking what the user needs are. 
